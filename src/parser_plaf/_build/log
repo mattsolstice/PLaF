@@ -1,0 +1,6 @@
+# dune build
+# OCAMLPARAM: unset
+# Workspace root: /home/ubuntu/PLaF/src/parser_plaf
+$ /usr/bin/nproc > /tmp/duneb41c10.output 2> /dev/null
+# Auto-detected concurrency: 12
+# disable binary cache
